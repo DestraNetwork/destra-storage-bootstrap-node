@@ -45,7 +45,7 @@ Now, you need to fill the following env variables:
 ```
 RPC_URL=<Your_Ethereum_Node_RPC_URL>
 PRIVATE_KEY=<Your_Private_Key>
-CONTRACT_ADDRESS=<Destra_Peer_Registry_Address> [Sepolia: 0x12f781c9E2fcC6F2d05Fa3B9A28f2dF887391657]
+CONTRACT_ADDRESS=<Destra_Peer_Registry_Address> [Sepolia: 0xf0DB1777c6f5E7Afb6d9a5af095AE008B9B2aA98]
 PUBLIC_IP=<Your_Public_IP>
 NODE_PORT=<Port_for_Node_to_Listen_On>
 BLOCKSTORE_DIRECTORY=<Path_For_Blockstore>
