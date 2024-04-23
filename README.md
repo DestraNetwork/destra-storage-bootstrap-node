@@ -33,7 +33,14 @@ npm install
 
 ### Set up environment variables
 
-You will need to set up environment variables that the node relies on. Create a `.env` file or copy the `.env.example` in the project root with the following contents:
+You will need to set up environment variables by copying the `.env.example` with following command:
+
+```
+cp .env.example .env
+```
+
+Now, you need to fill the following env variables:
+
 
 ```
 RPC_URL=<Your_Ethereum_Node_RPC_URL>
